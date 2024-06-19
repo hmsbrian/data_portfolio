@@ -1,0 +1,8 @@
+Cyclistic Data Analysis
+
+--To begin this data analysis capstone, I grabbed the Q4 2019 data from here: https://divvy-tripdata.s3.amazonaws.com/index.html
+
+--Checked for duplicate entries. Here is the query.
+SELECT distinct trip_id
+FROM `your-project.cyclistic_2019.rides_q1_2019`
+GROUP BY trip_id
