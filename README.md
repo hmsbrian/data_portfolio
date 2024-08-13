@@ -1,6 +1,3 @@
-# hello-world
-first repo with GitHub
+## Brian's data analysis portfolio.
 
-this is my first GitHub project; I'm writing these lines to explore how this all works.
-
-you should know that I am a ginger with a fierce beard. That is all.
+To get started, click the Cyclistic project folder. That is all.
